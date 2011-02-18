@@ -167,7 +167,7 @@
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" revision="14e77164bddf4d29acaca5bb2ff116a697bf9650"/>
   <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" remote="github" revision="a7ecdbed66bee90b7fa241e46924d4fa17a5aeab"/>
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" revision="bdd13bfab99604e3bd51d8f892c90253a36e638c"/>
-  <project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" remote="github" revision="1128f49f59d5636df97c4e9d5ba7d5f69cb9fbaa"/>
+  <project path="packages/apps/CMParts" name="SM-froyo/android_packages_apps_CMParts" remote="github" revision="1128f49f59d5636df97c4e9d5ba7d5f69cb9fbaa"/>
   <project path="packages/apps/CMPartsHelper" name="CyanogenMod/android_packages_apps_CMPartsHelper" remote="github" revision="41ac2858e612fb83f6a6497292808f5d60a389fb"/>
   <project path="packages/apps/CMStats" name="CyanogenMod/android_packages_apps_CMStats" remote="github" revision="6d505de36b333256db1f71434684be018cacd1da"/>
   <project path="packages/apps/CMUpdateNotify" name="CyanogenMod/android_packages_apps_CMUpdateNotify" remote="github" revision="614768e1a28bf16e629d235c696fa08162ff3334"/>

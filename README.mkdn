@@ -6,7 +6,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the dh-harald's trees, use a command like this:
 
-    repo init -u git://github.com/dh-harald/cm_android.git -b froyo
+    repo init -u git://github.com/SM-froyo/sm_android.git -b froyo
 
 Then to sync up:
 

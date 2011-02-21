@@ -20,9 +20,7 @@
   <project path="device/common" name="device/common" revision="d468cbeb023507ce9c0e01e688038b9c56c403e7"/>
   <project path="device/generic" name="CyanogenMod/android_device_generic" remote="github" revision="3ca0c1745e1a1e76e27afd7a745af37d7b2f8681"/>
   <project path="device/sample" name="device/sample" revision="b4b6fced74341091180b10529c509a7f2d9327fe"/>
-  <project path="device/samsung/bmlunlock" name="CyanogenMod/android_device_samsung_bmlunlock" remote="github" revision="916fc164bdc317318c5da27de430c1c3d26ddf07"/>
   <project path="device/samsung/spica" name="SM-froyo/sm_android_device_samsung_spica" remote="github"/>
-  <project path="device/samsung/vibrant" name="CyanogenMod/android_device_samsung_vibrant" remote="github" revision="cc53a085a7288228e88882c4c4e0f5320f3b8dea"/>
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="24def9277c1bf4ed5c19b73ed3e76d761f992ddb"/>
   <project path="external/alsa-utils" name="platform/external/alsa-utils" revision="e5c3589c071e4f19936ef124925bc8dafc717c5a"/>
   <project path="external/apache-http" name="platform/external/apache-http" revision="9340bb2a4b5f828b418c0e77492dde148623c938"/>

@@ -20,35 +20,7 @@
   <project path="device/common" name="device/common" revision="d468cbeb023507ce9c0e01e688038b9c56c403e7"/>
   <project path="device/generic" name="CyanogenMod/android_device_generic" remote="github" revision="3ca0c1745e1a1e76e27afd7a745af37d7b2f8681"/>
   <project path="device/sample" name="device/sample" revision="b4b6fced74341091180b10529c509a7f2d9327fe"/>
-  <project path="device/advent/vega" name="CyanogenMod/android_device_advent_vega" remote="github" revision="b41750a55bb2cd707db6f39278905fb42be3a41b"/>
-  <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" revision="289cd7d256652a8b8bca51c5c0b6ea037c6f6085"/>
-  <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" revision="9f7cc30be52b30c577a2ede9cf7baba0afd5b12c"/>
-  <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" revision="a274d9b8e7c9d9dd1c27653ea8babab438043335"/>
-  <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" remote="github" revision="d03f1076c1da0e649c9eaabb09c1b64614382b9c"/>
-  <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" remote="github" revision="2996278f77303a7c5481ccc7d7fdcde71e9c19b1"/>
-  <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" remote="github" revision="da224aaa3078c9eade74f6ea7be40bc276df5bd0"/>
-  <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" revision="999547e5236e55d1689d4da45f5b9eaaa4859aec"/>
-  <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" revision="5593d2899203ec378c306701788f1c43af9a6935"/>
-  <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" remote="github" revision="573f568622555891e2dce7d12b6a8ecbd36bfe86"/>
-  <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" remote="github" revision="9bdc35b839fe02de8594d8fc967a82c850c5808a"/>
-  <project path="device/htc/hero" name="CyanogenMod/android_device_htc_hero" remote="github" revision="14fcb1b93a2df2c20b11b253f3895354ba15063c"/>
-  <project path="device/htc/heroc" name="darchstar/android_device_htc_heroc" remote="github" revision="cb608da6350959e698902780362069cea8fae173"/>
-  <project path="device/htc/inc" name="CyanogenMod/android_device_htc_inc" remote="github" revision="3a2fe3c4e1825c53e39bb7c7d5cecea0550e020f"/>
-  <project path="device/htc/legend" name="CyanogenMod/android_device_htc_legend" remote="github" revision="83d4a17e7d95317ca0e00f20248f86a1cc023297"/>
-  <project path="device/htc/liberty" name="CyanogenMod/android_device_htc_liberty" remote="github" revision="18e1738726941f363fa233398039fd711986ccb1"/>
-  <project path="device/htc/passion" name="CyanogenMod/android_device_htc_passion" remote="github" revision="dc542bc3d2ca2336d839683f152aba02e51c2d23"/>
-  <project path="device/htc/passion-common" name="CyanogenMod/android_device_htc_passion-common" remote="github" revision="5bf5231283987d914f3fbb6a658ce177c51597da"/>
-  <project path="device/htc/supersonic" name="CyanogenMod/android_device_htc_supersonic" remote="github" revision="3b4b960334e69f8825c16cfa27cb92af18e04f96"/>
-  <project path="device/htc/vision" name="CyanogenMod/android_device_htc_vision" remote="github" revision="209395775918b2969dc35338240b9e920998bc48"/>
-  <project path="device/kyocera/m6000" name="koush/android_device_kyocera_m6000" remote="github" revision="53f96cac7933e1d2e16b027626a10ac35d370ba8"/>
-  <project path="device/motorola/backflip" name="CyanogenMod/android_device_motorola_backflip" remote="github" revision="fff53b4e486cd842ebe7e638c048f8ef1eccf6ef"/>
-  <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" remote="github" revision="9706707d3a05cdf7d9f61c6e64538172bd3479b8"/>
-  <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" remote="github" revision="4544f049667463891a02d808f40c70d84eae82b1"/>
-  <project path="device/nvidia/harmony" name="CyanogenMod/android_device_harmony" remote="github" revision="192a3cca4834d4ab55717051e36ce6cd3019c6f7"/>
-  <project path="device/samsung/bmlunlock" name="CyanogenMod/android_device_samsung_bmlunlock" remote="github" revision="916fc164bdc317318c5da27de430c1c3d26ddf07"/>
   <project path="device/samsung/spica" name="SM-froyo/sm_android_device_samsung_spica" remote="github"/>
-  <project path="device/samsung/vibrant" name="CyanogenMod/android_device_samsung_vibrant" remote="github" revision="cc53a085a7288228e88882c4c4e0f5320f3b8dea"/>
-  <project path="device/yuhua/x2" name="CyanogenMod/android_device_yuhua_x2" remote="github" revision="0e07dd91c29830577741d9e3c3b4f8cbcfb9cec1"/>
 
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="24def9277c1bf4ed5c19b73ed3e76d761f992ddb"/>
   <project path="external/alsa-utils" name="platform/external/alsa-utils" revision="e5c3589c071e4f19936ef124925bc8dafc717c5a"/>

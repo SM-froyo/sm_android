@@ -195,7 +195,6 @@
   <project path="system/vold" name="dh-harald/cm_android_system_vold" remote="github"/>
   <project path="system/wlan/ti" name="platform/system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
 
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" revision="056619dbd882257c8407f7008bbabac8a5221088"/>
   <project path="vendor/spica" name="SM-froyo/sm_android_vendor_spica" remote="github"/>
 
 </manifest>

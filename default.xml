@@ -119,7 +119,6 @@
   <project path="hardware/alsa_sound" name="dh-harald/android_hardware_alsa_sound" remote="github"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2"/>
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" revision="8fb22bd4c2a4531a13c2bb2e0ce9c9f93ca021ed"/>
-  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" revision="9117b4b81ea5b4e5aacb9ab573656e4590ef46f3"/>
   <project path="hardware/libhardware_legacy" name="dh-harald/cm_android_hardware_libhardware_legacy" remote="github"/>
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" revision="463321860904029ebf9a62024c02f7bd82215ae4"/>
   <project path="hardware/ril" name="SM-froyo/platform_hardware_ril" remote="github"/>

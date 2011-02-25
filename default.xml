@@ -135,9 +135,6 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" revision="bdd13bfab99604e3bd51d8f892c90253a36e638c"/>
   <project path="packages/apps/SMParts" name="SM-froyo/android_packages_apps_SMParts" remote="github"/>
   <project path="packages/apps/SMPartsHelper" name="SM-froyo/android_packages_apps_SMPartsHelper" remote="github"/> 
-  <project path="packages/apps/CMStats" name="CyanogenMod/android_packages_apps_CMStats" remote="github" revision="6d505de36b333256db1f71434684be018cacd1da"/>
-  <project path="packages/apps/CMUpdateNotify" name="CyanogenMod/android_packages_apps_CMUpdateNotify" remote="github" revision="614768e1a28bf16e629d235c696fa08162ff3334"/>
-  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" remote="github" revision="32ac59b8dd4f98c9fd36aac8b83a9aee168c98d0"/>
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" remote="github" revision="15f4cd693405dcf1338dc5beb18350ffa64ee0ec"/>
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" remote="github" revision="da1fa2cade383772d073c8867f857f66d9f6fd3c"/>
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="3f0e8657f43a988bb572d488a3b74c7fb41b6747"/>
@@ -181,7 +178,7 @@
   <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" remote="github" revision="f5177bb1e681248ef201d3fffebd961a192d4d7b"/>
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" revision="863cb2e0b8f3e07e1143a9910045c1735ddfb5ab"/>
 
-  <project path="prebuilt" name="platform/prebuilt" revision="af702f794b83025363cfd7fcccffbd87d8ffd40d"/>
+  <project path="prebuilt" name="nebkat/android_platform_prebuilt" remote="github"/>
   <project path="sdk" name="platform/sdk" revision="bf2cc1ba6983e23f14df45c20ee08f2d4e2b2fd3"/>
   <project path="system/bluetooth" name="dh-harald/cm_android_system_bluetooth" remote="github"/>
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="3519f031cb654b711cff28b624d6f85afc2fd455"/>

@@ -154,7 +154,7 @@
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" revision="e2aae3b90c1b76b36268eb80eff73f0ab9b04694"/>
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09"/>
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" remote="github" revision="4ce77acd856f4d6275029cb54838b4309d5bf933"/>
-  <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" revision="03c5288e0336a85e140d1049ef57480996006bdd"/>
+  <project path="packages/apps/Protips" name="nebkat/android_packages_apps_Protips" remote="github" revision="03c5288e0336a85e140d1049ef57480996006bdd"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="19a24c39b8c23be1e0f4f91b2a859dd4477976a9"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" revision="80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2"/>
   <project path="packages/apps/Settings" name="SM-froyo/android_packages_apps_Settings" remote="github"/>
@@ -182,7 +182,7 @@
   <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" remote="github" revision="f5177bb1e681248ef201d3fffebd961a192d4d7b"/>
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" revision="863cb2e0b8f3e07e1143a9910045c1735ddfb5ab"/>
 
-  <project path="prebuilt" name="platform/prebuilt" revision="af702f794b83025363cfd7fcccffbd87d8ffd40d"/>
+  <project path="prebuilt" name="nebkat/android_platform_prebuilt" remote="github"/>
   <project path="sdk" name="platform/sdk" revision="bf2cc1ba6983e23f14df45c20ee08f2d4e2b2fd3"/>
   <project path="system/bluetooth" name="dh-harald/cm_android_system_bluetooth" remote="github"/>
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="3519f031cb654b711cff28b624d6f85afc2fd455"/>

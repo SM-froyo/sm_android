@@ -178,7 +178,7 @@
   <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" remote="github" revision="f5177bb1e681248ef201d3fffebd961a192d4d7b"/>
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" revision="863cb2e0b8f3e07e1143a9910045c1735ddfb5ab"/>
 
-  <project path="prebuilt" name="nebkat/android_platform_prebuilt" remote="github"/>
+  <project path="prebuilt" name="platform/prebuilt" revision="af702f794b83025363cfd7fcccffbd87d8ffd40d"/>
   <project path="sdk" name="platform/sdk" revision="bf2cc1ba6983e23f14df45c20ee08f2d4e2b2fd3"/>
   <project path="system/bluetooth" name="dh-harald/cm_android_system_bluetooth" remote="github"/>
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="3519f031cb654b711cff28b624d6f85afc2fd455"/>

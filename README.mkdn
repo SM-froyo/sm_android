@@ -16,4 +16,7 @@ To build:
 
     . build/envsetup.sh
     lunch spica-eng
+    . vendor/spica/get-google-files -v mdpi
     make
+
+After building otapackage you can add file firstboot.sh to copy to DATA: dir.

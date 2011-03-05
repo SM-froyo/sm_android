@@ -80,7 +80,7 @@
   <project path="external/neven" name="platform/external/neven" revision="d898f9992b4db8f63ec707b07f3802ce3181ffda"/>
   <project path="external/opencore" name="SM-froyo/sm_android_external_opencore" remote="github"/>
   <project path="external/openssl" name="CyanogenMod/android_external_openssl" remote="github" revision="3a8111e7fe46fb5450e90c40af5a844d83990fe4"/>
-  <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="github" revision="03c499bdf3b495a2a616194a99fc6ef32f588ab2"/>
+  <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="github" revision="24a48703abd2fe44929e202bb1b59ed2e8b535f5"/>
   <project path="external/oprofile" name="platform/external/oprofile" revision="de6b5ecad5b51e38b85975c4f95a9f6e6f13719c"/>
   <project path="external/ping" name="platform/external/ping" revision="05cc700c9089ff72accb1c76a67c01b5d176bf3e"/>
   <project path="external/ppp" name="platform/external/ppp" revision="42d99d5976f48b5f604bda08d112d6f583674da7"/>

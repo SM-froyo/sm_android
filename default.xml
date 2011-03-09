@@ -163,7 +163,7 @@
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="c93c35176710985c31d028759763af8e848d1e22"/>
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github" revision="e21aa4d53f11ed1c39d0a512d2e6944de824751c"/>
   <project path="packages/apps/TSCalibration" name="CyanogenMod/android_packages_apps_TSCalibration" remote="github" revision="eba1bfcaa3637ec6862131de0c02cb669c5babfc"/>
-  <project path="packages/apps/VoiceDialer" name="SM-froyo/cm_android_packages_apps_VoiceDialer" remote="github"/>
+  <project path="packages/apps/VoiceDialer" name="SM-froyo/android_packages_apps_VoiceDialer" remote="github"/>
   <project path="packages/experimental" name="platform/packages/experimental" revision="7980ed8334bd654442c8377a89d0403fa23c463d"/>
   <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" remote="github" revision="067235a0c0760d406df02e87c0b30603091969c9"/>
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" revision="27ab9d1b806f03554d2abb50de26abe7bf234336"/>

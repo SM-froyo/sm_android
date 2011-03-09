@@ -131,15 +131,15 @@
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
   <project path="packages/apps/AndroidTerm" name="CyanogenMod/android_packages_apps_AndroidTerm" remote="github" revision="e3428012b2395922036ccbf5e0fca46d27d21c5e"/>
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="github" revision="9f42c8c3f39f61f10fe435c876c84b694ee7335d"/>
-  <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="github" revision="dff9323679c4aecf2cd94a8a503725ebd6ad3a91"/>
+  <project path="packages/apps/Browser" name="SM-froyo/android_packages_apps_Browser" remote="github"/>
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" revision="72b0717b7d8956ada90742947838779b24e323f7"/>
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" revision="14e77164bddf4d29acaca5bb2ff116a697bf9650"/>
-  <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" remote="github" revision="a7ecdbed66bee90b7fa241e46924d4fa17a5aeab"/>
+  <project path="packages/apps/Camera" name="SM-froyo/android_packages_apps_Camera" remote="github"/>
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" revision="bdd13bfab99604e3bd51d8f892c90253a36e638c"/>
   <project path="packages/apps/SMParts" name="SM-froyo/android_packages_apps_SMParts" remote="github"/>
   <project path="packages/apps/SMPartsHelper" name="SM-froyo/android_packages_apps_SMPartsHelper" remote="github"/>
-  <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" remote="github" revision="15f4cd693405dcf1338dc5beb18350ffa64ee0ec"/>
-  <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" remote="github" revision="da1fa2cade383772d073c8867f857f66d9f6fd3c"/>
+  <project path="packages/apps/Contacts" name="SM-froyo/android_packages_apps_Contacts" remote="github"/>
+  <project path="packages/apps/DeskClock" name="SM-froyo/android_packages_apps_DeskClock" remote="github"/>
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="3f0e8657f43a988bb572d488a3b74c7fb41b6747"/>
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="github" revision="975ba1b8740b1aeadce3631893d7f571b54940df"/>
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="490e1f724b685c5d75b0b540c23c255d9a1bbfee"/>
@@ -150,10 +150,10 @@
   <project path="packages/apps/IM" name="platform/packages/apps/IM" revision="d4eead18d460ee3b4f911bf93078158194bb252c"/>
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" revision="8a3ef2ed6c2cc89ae96384358fa5fcba58b50ac0"/>
   <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" revision="fd24cc9e466811d6b8408a8e424f125c80f5153c"/>
-  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="github" revision="7550324cfec8ed5068c573d3369aa9690f96bcc7"/>
-  <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" revision="e2aae3b90c1b76b36268eb80eff73f0ab9b04694"/>
+  <project path="packages/apps/Mms" name="SM-froyo/android_packages_apps_Mms" remote="github"/>
+  <project path="packages/apps/Music" name="SM-froyo/android_packages_apps_Music" remote="github"/>
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09"/>
-  <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" remote="github" revision="4ce77acd856f4d6275029cb54838b4309d5bf933"/>
+  <project path="packages/apps/Phone" name="SM-froyo/android_packages_apps_Phone" remote="github"/>
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" revision="03c5288e0336a85e140d1049ef57480996006bdd"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="19a24c39b8c23be1e0f4f91b2a859dd4477976a9"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" revision="80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2"/>
@@ -163,7 +163,7 @@
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="c93c35176710985c31d028759763af8e848d1e22"/>
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="github" revision="e21aa4d53f11ed1c39d0a512d2e6944de824751c"/>
   <project path="packages/apps/TSCalibration" name="CyanogenMod/android_packages_apps_TSCalibration" remote="github" revision="eba1bfcaa3637ec6862131de0c02cb669c5babfc"/>
-  <project path="packages/apps/VoiceDialer" name="dh-harald/cm_android_packages_apps_VoiceDialer" remote="github"/>
+  <project path="packages/apps/VoiceDialer" name="SM-froyo/cm_android_packages_apps_VoiceDialer" remote="github"/>
   <project path="packages/experimental" name="platform/packages/experimental" revision="7980ed8334bd654442c8377a89d0403fa23c463d"/>
   <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" remote="github" revision="067235a0c0760d406df02e87c0b30603091969c9"/>
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" revision="27ab9d1b806f03554d2abb50de26abe7bf234336"/>

@@ -8,6 +8,8 @@
     <copyfile src="core/root.mk" dest="Makefile"/>
   </project>
 
+  <project path="manifest" name="nebkat/sm_android" remote="github">
+
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" revision="9a380beae73854a3916dda83836d9a0cb1e09be3"/>
 
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" revision="4acde5dcafa1b7c7fa241081c9b49f0bbf436c23"/>

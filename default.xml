@@ -4,11 +4,11 @@
   <remote name="github" fetch="git://github.com/" review="review.cyanogenmod.com"/>
   <default revision="froyo" remote="korg"/>
 
+ <project path="manifest" name="nebkat/sm_android" remote="github">
+
   <project path="build" name="SM-froyo/sm_android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile"/>
   </project>
-
-  <project path="manifest" name="nebkat/sm_android" remote="github">
 
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" revision="9a380beae73854a3916dda83836d9a0cb1e09be3"/>
 
@@ -137,7 +137,7 @@
   <project path="packages/apps/SMPartsHelper" name="SM-froyo/android_packages_apps_SMPartsHelper" remote="github"/>
   <project path="packages/apps/Contacts" name="SM-froyo/android_packages_apps_Contacts" remote="github"/>
   <project path="packages/apps/DeskClock" name="SM-froyo/android_packages_apps_DeskClock" remote="github"/>
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="b8beaf483354a744b7ebeb993c98b5104cdc1282"/>
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="3f0e8657f43a988bb572d488a3b74c7fb41b6747"/>
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="github" revision="975ba1b8740b1aeadce3631893d7f571b54940df"/>
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="490e1f724b685c5d75b0b540c23c255d9a1bbfee"/>
   <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" remote="github" revision="4c9d4abc1f17f88e523bc42eea4530d74fbc4da5"/>
@@ -146,7 +146,7 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" revision="09599d4862289c36586b8fbeb0fb31d40c80ac19"/>
   <project path="packages/apps/IM" name="platform/packages/apps/IM" revision="d4eead18d460ee3b4f911bf93078158194bb252c"/>
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" revision="8a3ef2ed6c2cc89ae96384358fa5fcba58b50ac0"/>
-  <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" revision="3f0e8657f43a988bb572d488a3b74c7fb41b6747"/>
+  <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" revision="450e301965b37d7be0531fe2e18b944815682a7a"/>
   <project path="packages/apps/Mms" name="SM-froyo/android_packages_apps_Mms" remote="github"/>
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" revision="e2aae3b90c1b76b36268eb80eff73f0ab9b04694"/>
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09"/>

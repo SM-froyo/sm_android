@@ -4,8 +4,6 @@
   <remote name="github" fetch="git://github.com/" review="review.cyanogenmod.com"/>
   <default revision="froyo" remote="korg"/>
 
- <project path="manifest" name="nebkat/sm_android" remote="github">
-
   <project path="build" name="SM-froyo/sm_android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile"/>
   </project>
@@ -103,7 +101,7 @@
   <project path="external/tslib" name="CyanogenMod/android_external_tslib" remote="github" revision="2abc40b58a269c89698e9828debdca08fe226579"/>
   <project path="external/tremolo" name="platform/external/tremolo" revision="1a7ca64dd19ab9a5af3c4c3c58c815f764877bf7"/>
   <project path="external/v8" name="CyanogenMod/android_external_v8" remote="github" revision="15b4fa6df76582ae62236b94efc70f21248841ad"/>
-  <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="github" revision="816a57422a598cf86b6d4b980f12e084e6c64c79"/>
+  <project path="external/webkit" name="SM-froyo/android_external_webkit" remote="github" revision="816a57422a598cf86b6d4b980f12e084e6c64c79"/>
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" remote="github" revision="91d69aa6978517b0bf615656b3bd7178585230d6"/>
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" remote="github" revision="13d3fc17cffbc43bd077c948cddb412c4ffb9cce"/>
   <project path="external/wpa_supplicant_6" name="dh-harald/cm_android_external_wpa_supplicant_6" remote="github"/>
@@ -120,8 +118,13 @@
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2"/>
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" revision="8fb22bd4c2a4531a13c2bb2e0ce9c9f93ca021ed"/>
   <project path="hardware/libhardware_legacy" name="dh-harald/cm_android_hardware_libhardware_legacy" remote="github"/>
+  <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" revision="9117b4b81ea5b4e5aacb9ab573656e4590ef46f3"/>
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" revision="463321860904029ebf9a62024c02f7bd82215ae4"/>
+  <project path="hardware/qcom/mm-core" name="CyanogenMod/android_hardware_qcom_mm-core" remote="github" revision="d11e359957151306efd9d9512840437ca2098c4a"/>
+  <project path="hardware/qcom/mm-video" name="CyanogenMod/android_hardware_qcom_mm-video" remote="github" revision="3804cda45ebf2ab09fe42486f080e74502de8a35"/>
   <project path="hardware/ril" name="SM-froyo/platform_hardware_ril" remote="github"/>
+  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" revision="801f558c85ee5c224a03e3456a6dbdb217051164"/>
+  <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" revision="4d7c6cbda8f292beb38cbf6bd0abbd05555e3e90"/>
 
   <project path="ndk" name="platform/ndk" revision="d127011d2b1b3465d79bfeb27146b0651b117c56"/>
 
@@ -148,10 +151,10 @@
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" revision="8a3ef2ed6c2cc89ae96384358fa5fcba58b50ac0"/>
   <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" revision="450e301965b37d7be0531fe2e18b944815682a7a"/>
   <project path="packages/apps/Mms" name="SM-froyo/android_packages_apps_Mms" remote="github"/>
-  <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" revision="e2aae3b90c1b76b36268eb80eff73f0ab9b04694"/>
+  <project path="packages/apps/Music" name="SM-froyo/android_packages_apps_Music" remote="github"/>
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09"/>
   <project path="packages/apps/Phone" name="SM-froyo/android_packages_apps_Phone" remote="github"/>
-  <project path="packages/apps/Protips" name="nebkat/android_packages_apps_Protips" remote="github" revision="03c5288e0336a85e140d1049ef57480996006bdd"/>
+  <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" revision="03c5288e0336a85e140d1049ef57480996006bdd"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="19a24c39b8c23be1e0f4f91b2a859dd4477976a9"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" revision="80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2"/>
   <project path="packages/apps/Settings" name="SM-froyo/android_packages_apps_Settings" remote="github"/>
@@ -181,7 +184,7 @@
 
   <project path="prebuilt" name="nebkat/android_platform_prebuilt" remote="github"/>
   <project path="sdk" name="platform/sdk" revision="bf2cc1ba6983e23f14df45c20ee08f2d4e2b2fd3"/>
-  <project path="system/bluetooth" name="dh-harald/cm_android_system_bluetooth" remote="github"/>
+  <project path="system/bluetooth" name="SM-froyo/sm_android_system_bluetooth" remote="github"/>
   <project path="system/core" name="CyanogenMod/android_system_core" remote="github" revision="3519f031cb654b711cff28b624d6f85afc2fd455"/>
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="github" revision="47e7c4c7a8ec7a8fbd7c9241bf958576c5b65525"/>
   <project path="system/netd" name="dh-harald/cm_android_system_netd" remote="github"/>

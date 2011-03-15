@@ -15,7 +15,7 @@
   <project path="bootable/recovery" name="Xmister/android_bootable_recovery" remote="github"/>
 
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="51ab0adb191273f9e28441724f1384c31779c125"/>
-  <project path="development" name="CyanogenMod/android_development" remote="github" revision="af323d7c387943b681908bc40ed0f8a01c94a2f3"/>
+  <project path="development" name="SM-froyo/android_development" remote="github"/>
 
   <project path="device/samsung/spica" name="SM-froyo/sm_android_device_samsung_spica" remote="github"/>
 

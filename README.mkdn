@@ -17,6 +17,14 @@ To build:
     . build/envsetup.sh
     lunch spica-eng
     . vendor/spica/get-google-files -v mdpi
-    make
+
+Optionally:
+
+    export SPICA_WITH_GOOGLE=1
+    export SPICA_WITH_3D=1
+
+For gapps and 3D libs from Intercept, then:
+
+    make -j4 otapackage
 
 After building otapackage you can add file firstboot.sh to copy to DATA: dir.

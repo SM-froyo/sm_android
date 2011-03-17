@@ -27,4 +27,4 @@ Build:
 
     make -j4 otapackage
 
-After building otapackage you can add file firstboot.sh to copy to DATA: dir.
+After building otapackage you can add file firstboot.sh to copy to DATA: dir as firstboot_to_run.sh.

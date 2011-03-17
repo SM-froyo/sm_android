@@ -22,6 +22,7 @@ Optionally for gapps and 3D libs from Intercept:
 
     export SPICA_WITH_GOOGLE=1
     export SPICA_WITH_3D=1
+    export SPICA_WITH_LIVEWALLPAPERS=1
 
 Build:
 

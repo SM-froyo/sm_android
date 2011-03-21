@@ -58,7 +58,7 @@
   <project path="external/gtest" name="platform/external/gtest" revision="75f109c3120bf78ee89124f1f21b50ea24225236"/>
   <project path="external/guava" name="platform/external/guava" revision="5fa17bce47c47d5538beaaef0e38f0576446709c"/>
   <project path="external/icu4c" name="platform/external/icu4c" revision="48b4965f21b876425372e873214bdc2496d02c3e"/>
-  <project path="external/icu4j" name="SM-froyo/android_external_icu4j" remote="github"/>
+  <project path="external/icu4j" name="SM-froyo/android_external_icu4j" revision="afcdadd2cedf4ea2ce953b05738441495c3809c1" remote="github"/>
   <project path="external/iproute2" name="platform/external/iproute2" revision="c54863d5d4ff3667e30f859e2d0273e4bb2c4d0f"/>
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" revision="4fe3597dce855ea199afa239498c9c1833a6fe48"/>
   <project path="external/iptables" name="CyanogenMod/android_external_iptables" revision="d287acf7d7347b5eea6918884de72cb249389557" remote="github"/>

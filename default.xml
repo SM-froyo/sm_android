@@ -91,7 +91,7 @@
   <project path="external/skia" name="dh-harald/cm_android_external_skia" remote="github"/>
   <project path="external/sonivox" name="platform/external/sonivox" revision="4fe08534dea6b494dd6bbdfa5be605bd4f0e1ac7"/>
   <project path="external/speex" name="platform/external/speex" revision="9965152ae52eb4dfdafbdcd8b55e39d1a23052e0"/>
-  <project path="external/sqlite" name="SM-froyo/platform_external_sqlite" revision="904607b881c63fad87fd72a78602d620792b58dc"/>
+  <project path="external/sqlite" name="SM-froyo/platform_external_sqlite" remote="github" revision="904607b881c63fad87fd72a78602d620792b58dc"/>
   <project path="external/srec" name="platform/external/srec" revision="58a59517c49aa1153cf4c5813ac4829e88ca8f48"/>
   <project path="external/stlport" name="platform/external/stlport" revision="c2afec726ce42ded67f2f5f41ec87d77cd6d2d34"/>
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="github" revision="efb3d04365c3e004d836ce66adff07b98b21b629"/>

@@ -154,7 +154,7 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" revision="03c5288e0336a85e140d1049ef57480996006bdd"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="19a24c39b8c23be1e0f4f91b2a859dd4477976a9"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" revision="80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2"/>
-  <project path="packages/apps/Settings" name="SM-froyo/android_packages_apps_Settings" remote="github"/>
+  <project path="packages/apps/Settings" name="darth-llamah/android_packages_apps_Settings.git" remote="github"/>
   <project path="packages/apps/SMParts" name="SM-froyo/android_packages_apps_SMParts" remote="github"/>
   <project path="packages/apps/SMPartsHelper" name="SM-froyo/android_packages_apps_SMPartsHelper" remote="github"/>
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" revision="724f488c5fc5e187fc90ad670251be11c99b0014"/>

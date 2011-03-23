@@ -91,7 +91,7 @@
   <project path="external/skia" name="dh-harald/cm_android_external_skia" remote="github"/>
   <project path="external/sonivox" name="platform/external/sonivox" revision="4fe08534dea6b494dd6bbdfa5be605bd4f0e1ac7"/>
   <project path="external/speex" name="platform/external/speex" revision="9965152ae52eb4dfdafbdcd8b55e39d1a23052e0"/>
-  <project path="external/sqlite" name="platform/external/sqlite" revision="904607b881c63fad87fd72a78602d620792b58dc"/>
+  <project path="external/sqlite" name="SM-froyo/platform_external_sqlite" remote="github" revision="ba17410d2c55c3041819ea398b5637011830a4cd"/>
   <project path="external/srec" name="platform/external/srec" revision="58a59517c49aa1153cf4c5813ac4829e88ca8f48"/>
   <project path="external/stlport" name="platform/external/stlport" revision="c2afec726ce42ded67f2f5f41ec87d77cd6d2d34"/>
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="github" revision="efb3d04365c3e004d836ce66adff07b98b21b629"/>
@@ -154,7 +154,7 @@
   <project path="packages/apps/Music" name="SM-froyo/android_packages_apps_Music" remote="github"/>
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09"/>
   <project path="packages/apps/Phone" name="SM-froyo/android_packages_apps_Phone" remote="github"/>
-  <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" revision="gingerbread"/>
+  <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" remote="github" revision="03c5288e0336a85e140d1049ef57480996006bdd"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="19a24c39b8c23be1e0f4f91b2a859dd4477976a9"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" revision="80eefbe5ccb2355b15f428e7aa605c5d9ce54fc2"/>
   <project path="packages/apps/Settings" name="SM-froyo/android_packages_apps_Settings" remote="github"/>

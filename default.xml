@@ -113,7 +113,6 @@
   <project path="frameworks/base" name="SM-froyo/sm_android_frameworks_base" remote="github"/>
   <project path="frameworks/ex" name="platform/frameworks/ex" revision="823b6f3516076b92f78c3fc27037d24bb514e653"/>
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
-  <project path="frameworks/policies/base" name="SM-froyo/sm_android_frameworks_policies_base" remote="github"/>
 
   <project path="hardware/alsa_sound" name="dh-harald/android_hardware_alsa_sound" remote="github"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="6b8a1c6010b8cff0fc4081d3eba0778c9e8a86b2"/>

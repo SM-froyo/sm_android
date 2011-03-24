@@ -131,7 +131,7 @@
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" revision="46f880c87cd2a8e3ca5c259a9babc24850ddf746"/>
   <project path="packages/apps/AndroidTerm" name="CyanogenMod/android_packages_apps_AndroidTerm" remote="github" revision="e3428012b2395922036ccbf5e0fca46d27d21c5e"/>
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="github" revision="9f42c8c3f39f61f10fe435c876c84b694ee7335d"/>
-  <project path="packages/apps/Browser" name="SM-froyo/android_packages_apps_Browser" remote="github"/>
+  <project path="packages/apps/Browser" name="SM-froyo/android_packages_apps_Browser" remote="github" revision="gingerbread"/>
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" revision="72b0717b7d8956ada90742947838779b24e323f7"/>
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" revision="14e77164bddf4d29acaca5bb2ff116a697bf9650"/>
   <project path="packages/apps/Camera" name="SM-froyo/android_packages_apps_Camera" remote="github"/>

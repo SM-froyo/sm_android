@@ -139,7 +139,7 @@
   <project path="packages/apps/Contacts" name="SM-froyo/android_packages_apps_Contacts" remote="github"/>
   <project path="packages/apps/DeskClock" name="SM-froyo/android_packages_apps_DeskClock" remote="github"/>
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="3f0e8657f43a988bb572d488a3b74c7fb41b6747"/>
-  <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="github" revision="975ba1b8740b1aeadce3631893d7f571b54940df"/>
+  <project path="packages/apps/Email" name="SM-froyo/android_packages_apps_Email" remote="github" revision="975ba1b8740b1aeadce3631893d7f571b54940df"/>
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="490e1f724b685c5d75b0b540c23c255d9a1bbfee"/>
   <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" remote="github" revision="4c9d4abc1f17f88e523bc42eea4530d74fbc4da5"/>
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" revision="44ff7fdb13381fe037c94a669564da513f03eed1"/>

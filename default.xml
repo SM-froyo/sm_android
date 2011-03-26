@@ -111,7 +111,7 @@
   <project path="external/zlib" name="platform/external/zlib" revision="d834beaf3037eed0745f6dbd987a3bd8b3bf7ee4"/>
 
   <project path="frameworks/base" name="SM-froyo/sm_android_frameworks_base" remote="github"/>
-  <project path="frameworks/ex" name="platform/frameworks/ex" revision="823b6f3516076b92f78c3fc27037d24bb514e653"/>
+  <project path="frameworks/ex" name="platform/frameworks/ex" revision="gingerbread"/>
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
 
   <project path="hardware/alsa_sound" name="dh-harald/android_hardware_alsa_sound" remote="github"/>
@@ -172,7 +172,7 @@
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" revision="00787c8bd9aaa465e7a906141a3b676575834367"/>
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" revision="9be87f0a751a29226f6d2a57054eb0627d370b9b"/>
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" revision="4f20a360a2f0a7a83900c28fc7728542b38d8939"/>
-  <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" revision="75cfb5d5cfbee6ee9538f902fede047c9f45687d"/>
+  <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" revision="gingerbread"/>
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" revision="b03532e8edf572d63c6a59a0b40b1d329b7cdf66"/>
   <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" revision="4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2"/>
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" remote="github" revision="13d1110cb8aca41e07494cc37da204e755c7883a"/>

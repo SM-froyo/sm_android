@@ -101,7 +101,7 @@
   <project path="external/tslib" name="CyanogenMod/android_external_tslib" remote="github" revision="2abc40b58a269c89698e9828debdca08fe226579"/>
   <project path="external/tremolo" name="platform/external/tremolo" revision="1a7ca64dd19ab9a5af3c4c3c58c815f764877bf7"/>
   <project path="external/v8" name="CyanogenMod/android_external_v8" remote="github" revision="15b4fa6df76582ae62236b94efc70f21248841ad"/>
-  <project path="external/webkit" name="SM-froyo/android_external_webkit" remote="github" revision="816a57422a598cf86b6d4b980f12e084e6c64c79"/>
+  <project path="external/webkit" name="SM-froyo/android_external_webkit" remote="github"/>
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" remote="github" revision="91d69aa6978517b0bf615656b3bd7178585230d6"/>
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" remote="github" revision="13d3fc17cffbc43bd077c948cddb412c4ffb9cce"/>
   <project path="external/wpa_supplicant_6" name="dh-harald/cm_android_external_wpa_supplicant_6" remote="github"/>
@@ -169,7 +169,7 @@
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" revision="00787c8bd9aaa465e7a906141a3b676575834367"/>
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" revision="9be87f0a751a29226f6d2a57054eb0627d370b9b"/>
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" revision="4f20a360a2f0a7a83900c28fc7728542b38d8939"/>
-  <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" revision="75cfb5d5cfbee6ee9538f902fede047c9f45687d"/>
+  <project path="packages/providers/DownloadProvider" name="SM-froyo/android_packages_providers_DownloadProvider" remote="github" revision="gingerbread"/>
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" revision="b03532e8edf572d63c6a59a0b40b1d329b7cdf66"/>
   <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" revision="4886c7a0cfba5df74b213b1fc8286c6e3f2ddaa2"/>
   <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" remote="github" revision="13d1110cb8aca41e07494cc37da204e755c7883a"/>

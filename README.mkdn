@@ -28,6 +28,6 @@ Build:
 
     make -j4 otapackage
 
-After building otapackage you can add file firstboot.sh to copy to DATA: dir as firstboot_to_run.sh.
+After building otapackage you can add file bin/firstboot_to_run.sh to copy to DATA: dir.
 
 If you want to collaborate, remember! Use pull request or froyo-work branch to commit your updates!

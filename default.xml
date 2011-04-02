@@ -14,7 +14,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="cd65e152740c709ab3edc0f4859e996ba27e8ca1"/>
   <project path="bootable/recovery" name="Xmister/android_bootable_recovery" remote="github"/>
 
-  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="51ab0adb191273f9e28441724f1384c31779c125"/>
+  <project path="dalvik" name="SM-froyo/android_dalvik" remote="github"/>
   <project path="development" name="SM-froyo/android_development" remote="github"/>
 
   <project path="device/samsung/spica" name="SM-froyo/sm_android_device_samsung_spica" remote="github"/>

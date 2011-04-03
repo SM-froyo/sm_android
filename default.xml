@@ -159,6 +159,7 @@
   <project path="packages/apps/Settings" name="SM-froyo/android_packages_apps_Settings" remote="github"/>
   <project path="packages/apps/SMParts" name="SM-froyo/android_packages_apps_SMParts" remote="github"/>
   <project path="packages/apps/SMPartsHelper" name="SM-froyo/android_packages_apps_SMPartsHelper" remote="github"/>
+  <project path="packages/apps/SMUpdateNotify" name="nebkat/android_packages_apps_SMUpdateNotify" remote="github"/>
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" remote="github" revision="724f488c5fc5e187fc90ad670251be11c99b0014"/>
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" revision="1f04bacb57af5ac14852cc1056f53016560cc656"/>
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="1231ca7074c5a9c4b610a3dfbbbbe33b54a8a513"/>

@@ -14,8 +14,8 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="cd65e152740c709ab3edc0f4859e996ba27e8ca1"/>
   <project path="bootable/recovery" name="Xmister/android_bootable_recovery" remote="github"/>
 
-  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" revision="51ab0adb191273f9e28441724f1384c31779c125"/>
-   <project path="development" name="SM-froyo/android_development" remote="github"/>
+  <project path="dalvik" name="SM-froyo/android_dalvik" remote="github"/>
+  <project path="development" name="SM-froyo/android_development" remote="github"/>
 
   <project path="device/samsung/spica" name="SM-froyo/sm_android_device_samsung_spica" remote="github"/>
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="24def9277c1bf4ed5c19b73ed3e76d761f992ddb"/>
@@ -110,7 +110,7 @@
   <project path="external/zlib" name="platform/external/zlib" revision="d834beaf3037eed0745f6dbd987a3bd8b3bf7ee4"/>
 
   <project path="frameworks/base" name="darth-llamah/sm_android_frameworks_base" remote="github"/>
-  <project path="frameworks/ex" name="platform/frameworks/ex" revision="823b6f3516076b92f78c3fc27037d24bb514e653"/>
+  <project path="frameworks/ex" name="platform/frameworks/ex" revision="gingerbread"/>
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
 
   <project path="hardware/alsa_sound" name="dh-harald/android_hardware_alsa_sound" remote="github"/>

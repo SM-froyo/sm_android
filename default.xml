@@ -118,6 +118,8 @@
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" remote="github" revision="8fb22bd4c2a4531a13c2bb2e0ce9c9f93ca021ed"/>
   <project path="hardware/libhardware_legacy" name="dh-harald/cm_android_hardware_libhardware_legacy" remote="github"/>
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" revision="463321860904029ebf9a62024c02f7bd82215ae4"/>
+  <project path="hardware/qcom/mm-core" name="CyanogenMod/android_hardware_qcom_mm-core" remote="github" revision="d11e359957151306efd9d9512840437ca2098c4a"/>
+  <project path="hardware/qcom/mm-video" name="CyanogenMod/android_hardware_qcom_mm-video" remote="github" revision="3804cda45ebf2ab09fe42486f080e74502de8a35"/>
   <project path="hardware/ril" name="SM-froyo/platform_hardware_ril" remote="github"/>
 
   <project path="ndk" name="platform/ndk" revision="d127011d2b1b3465d79bfeb27146b0651b117c56"/>

@@ -102,7 +102,7 @@
   <project path="external/tslib" name="CyanogenMod/android_external_tslib" remote="github" revision="2abc40b58a269c89698e9828debdca08fe226579"/>
   <project path="external/tremolo" name="platform/external/tremolo" revision="1a7ca64dd19ab9a5af3c4c3c58c815f764877bf7"/>
   <project path="external/v8" name="CyanogenMod/android_external_v8" remote="github" revision="15b4fa6df76582ae62236b94efc70f21248841ad"/>
-  <project path="external/webkit" name="SM-froyo/android_external_webkit" remote="github" revision="816a57422a598cf86b6d4b980f12e084e6c64c79"/>
+  <project path="external/webkit" name="SM-froyo/android_external_webkit" remote="github"/>
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" remote="github" revision="91d69aa6978517b0bf615656b3bd7178585230d6"/>
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" remote="github" revision="13d3fc17cffbc43bd077c948cddb412c4ffb9cce"/>
   <project path="external/wpa_supplicant_6" name="dh-harald/cm_android_external_wpa_supplicant_6" remote="github"/>

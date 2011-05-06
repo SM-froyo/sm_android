@@ -6,14 +6,25 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the cadavre's trees, use a command like this:
 
-    repo init -u git://github.com/SM-froyo/sm_android.git -b froyo
+    repo init -u git://github.com/nebkat/sm_android.git -b froyo
 
 Then to sync up:
 
-    repo sync
+    repo sync -j10
 
-To build:
+Prepare for build:
 
     . build/envsetup.sh
     lunch spica-eng
-    make
+    vendor/spica/get-google-files -v mdpi
+
+Optionally for gapps,3D libs from Intercept, live wallpapers and development (gcc, uclibc, etc):
+
+    export SPICA_WITH_GOOGLE=1
+    export SPICA_WITH_3D=1
+    export SPICA_WITH_LIVEWALLPAPERS=1
+    export SPICA_WITH_DEV=1
+
+Build:
+
+    mka otapackage

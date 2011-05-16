@@ -143,7 +143,7 @@
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" remote="github" revision="490e1f724b685c5d75b0b540c23c255d9a1bbfee"/>
   <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" remote="github" revision="4c9d4abc1f17f88e523bc42eea4530d74fbc4da5"/>
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" revision="44ff7fdb13381fe037c94a669564da513f03eed1"/>
-  <project path="packages/apps/Gallery3D" name="Androbot/android_packages_apps_Gallery3D" remote="github" revision="94e3b45ac8f329e0e0c930943b2bcbda5440b1b8"/>
+  <project path="packages/apps/Gallery3D" name="CyanogenMod/android_packages_apps_Gallery3D" remote="github" revision="gingerbread"/>
   <project path="packages/apps/GenKiller" name="SM-froyo/android_packages_apps_GenKiller" remote="github"/>
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" revision="09599d4862289c36586b8fbeb0fb31d40c80ac19"/>
   <project path="packages/apps/IM" name="platform/packages/apps/IM" revision="d4eead18d460ee3b4f911bf93078158194bb252c"/>
